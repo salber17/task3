@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+header ul {
+  size: 20px;
+  font-weight: 400;
+  line-height: 24.2px;
+}
+nav ul {
+  display: flex;
+}
+
+nav .middle {
+  margin: 0 121px;
+}
+.cars {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 439px;
+  background-color: #ebebf0;
+}
+.cars .middle {
+  margin: 0 20px;
+}
+
+footer {
+  background-color: #19126b;
+  height: 161px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 130px;
+}
+footer li {
+  margin: 0 20px;
+}
+footer ul {
+  display: flex;
+}
+footer .copyright {
+  color: #ffffff;
+}
+.couple {
+  margin-top: 32px;
+  width: 1440px;
+  margin-left: 0px;
+  align-items: center;
+  margin-right: 0%;
+  height: 478px;
+}
+
+h1 {
+  color: #17326e;
+  font-size: 36px;
+  line-height: 43.57px;
+  margin-top: 120px;
+  margin-left: 130px;
+}
+p {
+  color: #090346;
+  line-height: 24.2px;
+  font-size: 20px;
+  margin-top: 24px;
+  margin-bottom: 120px;
+  margin-left: 130px;
+}
+
+.history {
+  background-color: #ebebf0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 516px;
+}
+.history .container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1180px;
+}
+.history .descriprion {
+  max-width: 519px;
+}
+
+h3 {
+  margin-left: 130px;
+}
+.threecars {
+  margin-top: 32px;
+  width: 1440px;
+  margin-left: 0px;
+  align-items: center;
+  margin-right: 0%;
+  height: 478px;
+}
+
+h2 {
+  color: #17326e;
+  font-size: 36px;
+  line-height: 43.57px;
+  margin-top: 120px;
+  margin-left: 130px;
+}
+p {
+  max-width: 780px;
+}
+
+.roadcar {
+  margin-top: 32px;
+  width: 1440px;
+  margin-left: 0px;
+  align-items: center;
+  margin-right: 0%;
+  height: 478px;
+}
+
+.info {
+  background-color: #ebebf0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 516px;
+}
+.info .cont {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1180px;
+}
+
+.contact {
+  width: 322px;
+  height: 153px;
+
+  margin: 0 auto;
+}
+.contact .title {
+  font-size: 36px;
+  margin-bottom: 35px;
+}
+
+.contact .span {
+  color: #0d69a9;
+}
+.contact .item {
+  font-size: 20px;
+  font-style: normal;
+}
+
+.contact .item .middle {
+  margin: 11px 0;
+}
